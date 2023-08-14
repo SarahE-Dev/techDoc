@@ -1,7 +1,7 @@
 html,
 body {
   min-width: 290px;
-  color: darkslategray;
+  color: darkslateblue;
   background-color: white;
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
@@ -15,16 +15,16 @@ body {
   width: 300px;
   height: 100%;
   border-right: solid;
-  border-color: darkslategrey;
+  border-color: darkslateblue;
 }
 
 header {
-  color: black;
+  color: darkmagenta;
   margin: 10px;
   text-align: center;
   font-size: 30px;
   font-weight: thin;
-  padding-top: 12px;
+
 }
 
 #main-doc header {
@@ -40,7 +40,7 @@ header {
 }
 
 #navbar li {
-  color: darkslategrey;
+  color: darkslateblue;
   border-top: 1px solid;
   list-style: none;
   position: relative;
@@ -50,7 +50,7 @@ header {
 #navbar a {
   display: block;
   padding: 10px 30px;
-  color: darkslategrey;
+  color: darkslateblue;
   text-decoration: none;
   cursor: pointer;
 }
@@ -63,7 +63,7 @@ header {
 }
 
 section article {
-  color: darkslategray;
+  color: darkslateblue;
   margin: 15px;
   font-size: 0.96em;
 }
@@ -80,7 +80,7 @@ code {
   word-break: normal;
   word-wrap: normal;
   line-height: 2;
-  background-color: lightgrey;
+  background-color: lightsteelblue;
   padding: 15px;
   margin: 10px;
   border-radius: 5px;
