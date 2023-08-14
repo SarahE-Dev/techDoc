@@ -2,7 +2,7 @@ html,
 body {
   min-width: 290px;
   color: darkslateblue;
-  background-color: white;
+  background-color: lightgray;
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
 }
